@@ -138,7 +138,7 @@ body:before {
     padding: $spacing-unit 0;
     position: relative;
     margin-top: -$footer-height;
-    height: $footer-height;
+    height: 2 * $spacing-unit + $footer-height;
     clear: both;
 }
 
