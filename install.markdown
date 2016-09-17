@@ -11,7 +11,7 @@ You can download and install these builds directly from `Plugins > Browse reposi
 
 As this is a preview release, something might go wrong. Hopefully you won't find any bugs, but if you do, we would
 appreciate very much if you filed an [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues)
-on our bugtracker or ping us in our [chat](https://paperchat.emc.gs) (ping DemonWav).
+on our bugtracker or ping us in our [chat](/chat/) (ping DemonWav).
 
 ## Setting up pre-release builds
 
@@ -24,7 +24,7 @@ to change your channel at any time.
 Pre-release builds are builds targeting a new feature. They may not have all the latest and greatest features of the
 main `Stable` channel, but we try our best to keep them in sync. If you find issues with a pre-release build please
 file a bug report on our [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues) tracker, or ping us in our
-[chat](https://paperchat.emc.gs) (ping DemonWav).
+[chat](/chat/) (ping DemonWav).
 
 ## Compatible IDEs
 
