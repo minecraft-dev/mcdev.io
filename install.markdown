@@ -11,7 +11,7 @@ You can download and install these builds directly from `Plugins > Browse reposi
 
 As this is a preview release, something might go wrong. Hopefully you won't find any bugs, but if you do, we would
 appreciate very much if you filed an [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues)
-on our bugtracker or ping us on our [chat](https://paperchat.emc.gs) (ping DemonWav).
+on our bugtracker or ping us in our [chat](https://paperchat.emc.gs) (ping DemonWav).
 
 ## Setting up pre-release builds
 
