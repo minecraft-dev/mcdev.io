@@ -6,4 +6,4 @@ version: alpha-0.2.1
 ---
 ## Bug Fix
 
-* Fix Bukkit POSTWORLD, it was POST_WORLD and was causing issues
+* Fix Bukkit `POSTWORLD`, it was `POST_WORLD` and was causing issues
