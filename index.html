@@ -63,11 +63,12 @@ class: home
 <div class="page-content changelog">
   <div class="wrapper">
     <h1 class="square">What's new</h1>
-    {% assign post = site.posts.first %}
+    {% for post in site.posts limit:3 %}
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h3><a class="post-link" href="{{ post.url }}">{{ post.version }}</a></h3>
     <article>{{ post.content }}</article>
-    <div class="center"><a href="/changelog/" class="fancy-link">Previous versions</a>
-    </div>
+    <hr/>
+    {% endfor %}
+    <div class="center"><a href="/changelog/" class="fancy-link">Previous versions</a></div>
   </div>
 </div>
