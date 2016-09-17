@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MC Dev IJ Changelog"
+date:   2016-09-16 00:00:00 +0600
+version: alpha-0.2.1
+---
+## Bug fix
+
+* Fix Bukkit POSTWORLD, it was POST_WORLD and was causing issues

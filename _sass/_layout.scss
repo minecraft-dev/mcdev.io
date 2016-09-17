@@ -138,7 +138,7 @@ body:before {
     padding: $spacing-unit 0;
     position: relative;
     margin-top: -$footer-height;
-    height: 2 * $spacing-unit + $footer-height;
+    height: $footer-height;
     clear: both;
 }
 
@@ -176,9 +176,12 @@ body:before {
 /**
  * Page content
  */
-.page-content {
-    padding: $spacing-unit 0 $footer-height;
+#main {
+    padding-bottom: $footer-height;
     height: 100%;
+}
+.page-content {
+    padding: $spacing-unit 0;
 }
 
 .page-heading {
