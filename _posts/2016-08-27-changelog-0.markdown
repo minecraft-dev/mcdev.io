@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "MC Dev IJ Changelog"
+date:   2016-08-27 00:00:00 +0600
+version: alpha-0.1.10
+---
+## Fixes
+
+* Updated Paper nexus URL
+* Mitigated several ArrayIndexOutOfBounds issues with Gradle imports
+
+## Misc
+
+* Added some extra error logging for Gradle imports when they fail

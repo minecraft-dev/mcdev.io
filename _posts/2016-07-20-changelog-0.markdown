@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MC Dev IJ Changelog"
+date:   2016-07-20 00:00:00 +0600
+version: alpha-0.1.1
+---
+
+## New Feature
+
+* Added color gutter icons for ChatColor and TextColor APIs in Bukkit, Sponge, and BungeeCord

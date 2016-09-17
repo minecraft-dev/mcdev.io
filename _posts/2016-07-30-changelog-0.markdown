@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "MC Dev IJ Changelog"
+date:   2016-07-30 00:00:00 +0600
+version: alpha-0.1.9
+---
+
+## New Features
+
+* Bukkit, BungeeCord, Sponge, and Forge event listener generation added (in Alt-Insert menu)
+* Bukkit and BungeeCord inspection checking that EventHandlers are in a class implementing Listener added
