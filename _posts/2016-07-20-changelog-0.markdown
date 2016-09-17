@@ -2,9 +2,14 @@
 layout: post
 title:  "MC Dev IJ Changelog"
 date:   2016-07-20 00:00:00 +0600
-version: alpha-0.1.1
+version: alpha-0.1.0
 ---
 
-## New Feature
+## New Platform
 
-* Added color gutter icons for ChatColor and TextColor APIs in Bukkit, Sponge, and BungeeCord
+* Added LiteLoader project creation support
+* All planned platforms are now supported
+
+## New Features
+
+* Moved Gradle wrapper setup for multi-module projects to before the modules are setup, to improve project creation stability
