@@ -1,40 +1,32 @@
 ---
 layout: page
-title: Install IntelliJ-Rust
+title: Install Minecraft Dev IntelliJ
 ---
 
 ## Getting alpha builds
 
-IntelliJ-Rust is currently in the _alpha_ stage of development. When we reach some acceptable level of stability,
-we publish alpha builds to the IntelliJ's main plugin [repository](https://plugins.jetbrains.com/plugin/8182).
+Minecraft Dev IntelliJ is currently in the _alpha_ stage of development. When we reach some acceptable level of
+stability, we publish alpha builds to the IntelliJ's main plugin [repository](https://plugins.jetbrains.com/plugin/8327).
 You can download and install these builds directly from `Plugins > Browse repositories` screen in your IDE.
 
-As this is a preview release, something might go wrong. So, be brave to face some nasty bugs.
-If you find one, we would very appreciate if you file an [issue](https://github.com/intellij-rust/intellij-rust/issues)
-on our bugtracker or ping us on our [chat](https://gitter.im/intellij-rust/intellij-rust).
+As this is a preview release, something might go wrong. Hopefully you won't find any bugs, but if you do, we would
+appreciate very much if you filed an [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues)
+on our bugtracker or ping us on our [chat](https://paperchat.emc.gs) (ping DemonWav).
 
-## Setting up nightly builds
+## Setting up pre-release builds
 
-In addition to preview releases, we also
-ship pre-release builds of _intellij-rust_ and _intellij-toml_ in the nightly channel.
+In addition to preview releases, we also ship pre-release builds of _Minecraft Dev IntelliJ_ in separate channels.
 
-To use them you need to follow the
-[instructions](https://www.jetbrains.com/idea/help/managing-enterprise-plugin-repositories.html)
-of adding additional plugin repository and paste the URL for the one you need:
+To use them, open the `Find Action` dialog by pressing the key combo `Ctrl-Alt-A` (or `Cmd-Alt-A` on Mac). Type
+`Configure Minecraft Development Plugin Updates` and press `Enter`. This will bring up a window which will allow you
+to change your channel at any time.
 
-```yaml
-- Rust: https://plugins.jetbrains.com/plugins/nightly/8182
-- TOML: https://plugins.jetbrains.com/plugins/nightly/8195
-```
-
-Nightly builds are daily snapshots of current development branch. So, it's natural that there may be even
-more bugs than in alpha channel. If you find one, we would very appreciate if you file an
-[issue](https://github.com/intellij-rust/intellij-rust/issues) on our bugtracker or ping us on our
-[chat](https://gitter.im/intellij-rust/intellij-rust).
+Pre-release builds are builds targeting a new feature. They may not have all the latest and greatest features of the
+main `Stable` channel, but we try our best to keep them in sync. If you find issues with a pre-release build please
+file a bug report on our [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues) tracker, or ping us in our
+[chat](https://paperchat.emc.gs) (ping DemonWav).
 
 ## Compatible IDEs
 
-The plugin should be compatible with any Intellij based IDE starting from build
-_143.2287.1_. This includes all 2016.1 releases and newer.For example, the 
-minimum supported IDEA version is _15.0.4_, the minimum supported CLion version 
-is _1.2_. See `Help > About` menu in the IDE to learn the build version you are using.
+The plugin should be compatible with Intellij IDEA Ultimate or Community Edition from 2016.1 or newer.
+See `Help > About` menu in the IDE to learn the build version you are using.

@@ -21,28 +21,36 @@ class: home
         <a id="install-pane-close" href="#">&times;</a>
       </div>
       <br>
-      <a id="download-gh" href="https://github.com/intellij-rust/intellij-rust"><i class="icon-github"></i> Source</a>
+      <a id="download-gh" href="https://github.com/DemonWav/MinecraftDevIntelliJ"><i class="icon-github"></i> Source</a>
     </div>
   </div>
 </div>
 
 <div class="page-content showcase">
   <div class="wrapper">
-    <h1 class="square">What is intellij-rust</h1>
+    <h1 class="square">What is Minecraft Dev IntelliJ</h1>
     <div class="showcase-pic">
       <img src="/assets/ir-completion.png" class="completion"/>
       <img src="/assets/ir-intention.png" class="intention">
     </div>
     <section>
-      <h2>Intelligent Rust</h2>
-      <p>We aim to build JetBrains-quality language support for IntelliJ IDEA and related IDEs.
-        Right now, you get native code completion<abbr class="wip" title="Work In Progress">WIP</abbr>,
-        broad navigation, intentions, formatting and much more...</p>
+      <h2>All Major Java Minecraft Platforms</h2>
+      <p>Experience first class support for all of the major Java Minecraft development platforms,
+        including <a href="https://bukkit.org/">Bukkit</a>, and derivatives such as
+        <a href="https://www.spigotmc.org/">Spigot</a> and <a href="https://paper.emc.gs">Paper</a>,
+        <a href="https://www.spongepowered.org/">Sponge</a>, <a href="http://files.minecraftforge.net/">Forge</a>,
+        <a href="http://www.liteloader.com/">LiteLoader</a>, and
+        <a href="https://www.spigotmc.org/wiki/bungeecord/">BungeeCord</a>. All this with support for Java,
+        <a href="https://kotlinlang.org/">Kotlin</a>, and
+        <a href="http://www.scala-lang.org/">Scala</a>.<abbr class="wip" title="Work In Progress">WIP</abbr></p>
+      <!--<p>We aim to build JetBrains-quality language support for IntelliJ IDEA and related IDEs.-->
+        <!--Right now, you get native code completion<abbr class="wip" title="Work In Progress">WIP</abbr>,-->
+        <!--broad navigation, intentions, formatting and much more...</p>-->
     </section>
     <section>
-      <h2>Corroded IDEA</h2>
-      <p>...while this is still your ol' good IDE. Enjoy highly productive developer experience, VCS integration
-        and other languages support.</p>
+      <h2>Dynamic Features</h2>
+      <p>Whether you develop for Forge, Bukkit, or Sponge, Minecraft Dev has project creation, new inspections,
+      code generation, and code modification features for all of them.</p>
     </section>
 
     <ul class="fancy-link-row">
@@ -52,14 +60,14 @@ class: home
   </div>
 </div>
 
-<div class="page-content whatsnew">
+<div class="page-content changelog">
   <div class="wrapper">
     <h1 class="square">What's new</h1>
     {% assign post = site.posts.first %}
     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
     <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
     <article>{{ post.content }}</article>
-    <div class="center"><a href="/thisweek/" class="fancy-link">Previous editions</a>
+    <div class="center"><a href="/changelog/" class="fancy-link">Previous versions</a>
     </div>
   </div>
 </div>

@@ -1,6 +1,9 @@
 body {
     padding-top: $header-height;
 }
+html, body {
+    height: 100%;
+}
 
 .grey-pane {
     color: $grey-color-dark;
@@ -19,7 +22,6 @@ body {
  * Site header
  */
 .site-header {
-    border-top: 5px solid $text-color;
     border-bottom: 1px solid $grey-color-light;
     background: $background-color;
     min-height: $header-height;
@@ -35,7 +37,7 @@ body {
 .site-title {
     font-family: $title-font-family;
     font-size: 26px;
-    font-weight: $title-font-weight;
+    font-weight: $header-title-font-weight;
     line-height: $header-height;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -118,17 +120,32 @@ body {
 /**
  * Site footer
  */
+body:before {
+    content: "";
+    height: 100%;
+    float: left;
+    width: 0;
+    margin-top: -32767px;
+}
+
+#wrap {
+    min-height: 100%;
+}
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     background: $background-color;
     padding: $spacing-unit 0;
+    position: relative;
+    margin-top: -$footer-height;
+    height: $footer-height;
+    clear: both;
 }
 
 .footer-heading {
     font-family: $title-font-family;
     font-size: 18px;
     font-weight: $title-font-weight;
-    margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -141,12 +158,10 @@ body {
     font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
 
@@ -162,7 +177,8 @@ body {
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 $footer-height;
+    height: 100%;
 }
 
 .page-heading {

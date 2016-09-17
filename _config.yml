@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: intellij-rust
+title: Minecraft Dev IntelliJ
 email: ""
-description: Rust plugin for IntelliJ IDEA
+description: Plugin for IntelliJ IDEA for Minecraft Development
 
 collections:
   docs:

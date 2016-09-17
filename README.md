@@ -1,4 +1,6 @@
-# intellij-rust.github.io
+# Minecraft Development IntelliJ Site
+
+Based on the [intellij-rust plugin site](https://github.com/intellij-rust/intellij-rust.github.io).
 
 ## Local development
 

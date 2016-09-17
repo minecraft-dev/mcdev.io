@@ -1,5 +1,5 @@
 ---
-title: Meet IntelliJ-Rust
+title: Meet Minecraft Dev IntelliJ
 order: 0
 permalink: /docs/
 ---

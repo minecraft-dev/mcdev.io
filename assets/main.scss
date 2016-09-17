@@ -4,7 +4,7 @@
 @charset "utf-8";
 
 @import 'https://fonts.googleapis.com/css?family=Open+Sans:400,800';
-@import 'https://fonts.googleapis.com/css?family=Ruda:900&text=intellij-rust';
+@import 'https://fonts.googleapis.com/css?family=Roboto:700,900"';
 @import '/assets/gifplayer/gifplayer.css';
 
 // Our variables
@@ -15,7 +15,8 @@ $bold-font-weight: 800;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$title-font-family: 'Ruda', Helvetica, Arial, sans-serif;
+$title-font-family: 'Roboto', Helvetica, Arial, sans-serif;
+$header-title-font-weight: 700;
 $title-font-weight: 900;
 $title-color:       lighten(#000, 15%);
 
@@ -23,7 +24,7 @@ $spacing-unit:     30px;
 
 $text-color:       #161616;
 $background-color: #fff;
-$brand-color:      #ee6408;
+$brand-color: #81ce40;
 
 $grey-color:         #828282;
 $grey-color-lighter: #eaeaeb;
@@ -50,6 +51,7 @@ $icon-github: "\e900";
 $icon-fork: "\e901";
 $icon-rss: "\ea9b";
 
+$footer-height: 60px;
 
 
 // Use media queries like this:
@@ -85,7 +87,7 @@ $icon-rss: "\ea9b";
         "base",
         "layout",
         "home",
-        "thisweek",
+        "changelog",
         "features",
         "docs",
         "syntax-highlighting"
