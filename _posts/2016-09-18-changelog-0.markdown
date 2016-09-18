@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MC Dev IJ Changelog"
+date:   2016-09-18 00:00:00 +0600
+version: alpha-0.2.2
+---
+## Update
+
+* Added Mixins preview channel
