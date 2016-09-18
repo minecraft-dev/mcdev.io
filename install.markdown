@@ -21,6 +21,10 @@ To use them, open the `Find Action` dialog by pressing the key combo `Ctrl-Alt-A
 `Configure Minecraft Development Plugin Updates` and press `Enter`. This will bring up a window which will allow you
 to change your channel at any time.
 
+Due to a quirk with how IntelliJ handles plugin updates, you may not be able to automatically move from a pre-release
+channel back to stable. If this happens, you will need to manually uninstall the plugin and reinstall it after selecting
+the stable channel.
+
 Pre-release builds are builds targeting a new feature. They may not have all the latest and greatest features of the
 main `Stable` channel, but we try our best to keep them in sync. If you find issues with a pre-release build please
 file a bug report on our [issue](https://github.com/DemonWav/MinecraftDevIntelliJ/issues) tracker, or ping us in our
