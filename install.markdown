@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Install Minecraft Dev IntelliJ
+title: Install Minecraft Dev
 ---
 
 ## Getting alpha builds

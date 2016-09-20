@@ -3,10 +3,10 @@ title: Creating a New Project
 order: 1
 ---
 
-Creating a new project is very easy with Minecraft Dev IntelliJ. You can either create a new standalone project, or
+Creating a new project is very easy with Minecraft Dev. You can either create a new standalone project, or
 create it as a new module in an existing (or empty) project. To create a new standalone project, choose
 `File > New > Project`, and you'll be presented with a window similar to this. You may not have all the same options for
-project types, but as long as you have Minecraft Dev IntelliJ installed, you should see the `Minecraft Project`
+project types, but as long as you have Minecraft Dev installed, you should see the `Minecraft Project`
 category.
 
 ![Project Type Select](/assets/gettingstarted/projecttype.png)

@@ -5,22 +5,22 @@ order: 100
 
 {% include h title="What platforms are supported?" tag="platforms" %}
 
-Minecraft Development IntelliJ supports all of the major Java Minecraft development platforms. These include:
+Minecraft Dev supports all of the major Java Minecraft development platforms. These include:
 
-- [![Bukkit Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/Bukkit.png) **Bukkit**](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse) ([![Spigot Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/Spigot.png) Spigot](https://spigotmc.org/) and [![Paper Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/Paper.png) Paper](https://paper.emc.gs))
-- [![Sponge Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/Sponge.png) **Sponge**](https://www.spongepowered.org/)
-- [![Forge Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/Forge.png) **Minecraft Forge**](http://minecraftforge.net/forum)
-- [![LiteLoader Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/LiteLoader.png) **LiteLoader**](http://www.liteloader.com/)
-- [![BungeeCord Icon](https://github.com/DemonWav/MinecraftDevIntelliJ/raw/master/src/main/resources/assets/platform/icons/BungeeCord.png) **BungeeCord**](https://www.spigotmc.org/wiki/bungeecord/)
+- [![Bukkit Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Bukkit.png) **Bukkit**](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse) ([![Spigot Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Spigot.png) Spigot](https://spigotmc.org/) and [![Paper Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Paper.png) Paper](https://paper.emc.gs))
+- [![Sponge Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Sponge.png) **Sponge**](https://www.spongepowered.org/)
+- [![Forge Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Forge.png) **Minecraft Forge**](http://minecraftforge.net/forum)
+- [![LiteLoader Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/LiteLoader.png) **LiteLoader**](http://www.liteloader.com/)
+- [![BungeeCord Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/BungeeCord.png) **BungeeCord**](https://www.spigotmc.org/wiki/bungeecord/)
 
 {% include h title="I found a bug. What should I do?" tag="bug" %}
 
-If you find a problem with the plugin, please report it to our [issue tracker](https://github.com/DemonWav/MinecraftDevIntelliJ/issues).
+If you find a problem with the plugin, please report it to our [issue tracker](https://github.com/DemonWav/MinecraftDev/issues).
 We try to deal with bugs as quickly as possible and take the quality of this plugin very seriously.
 
 {% include h title="I have an idea for a new feature." tag="feature" %}
 
-If you have any feature requests for any of the supported platforms, please use the [issue tracker](https://github.com/DemonWav/MinecraftDevIntelliJ/issues)
+If you have any feature requests for any of the supported platforms, please use the [issue tracker](https://github.com/DemonWav/MinecraftDev/issues)
 to suggest it and we'll let you know if it's in the scope for what we are trying to do. We might not always implement
 every feature immediately, but we are always on the lookout for new features to implement and we would love to hear your
 ideas!
@@ -36,7 +36,7 @@ Installation instructions for pre-release builds are available [here](https://mi
 {% include h title="I installed the plugin and it didn't detect my current projects. What can I do?" tag="detect" %}
 
 Usually Maven projects will be detected immediately on startup, but Gradle projects won't always automatically detect.
-Minecraft Dev IntelliJ plugs into the Maven and Gradle plugin loading system to gather information about the project, so
+Minecraft Dev plugs into the Maven and Gradle plugin loading system to gather information about the project, so
 sometimes a project refresh is necessary to re-detect the project as a Minecraft project.
 
 For Maven to refresh the project, right click on the `pom.xml` and choose `Maven -> Reimport`.
