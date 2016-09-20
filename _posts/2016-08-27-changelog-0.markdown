@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MC Dev IJ Changelog"
+title:  "Minecraft Dev"
 date:   2016-08-27 00:00:00 +0600
 version: alpha-0.1.10
 ---
