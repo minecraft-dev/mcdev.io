@@ -43,6 +43,10 @@ html, body {
     margin-bottom: 0;
     float: left;
 
+    background: url("icon.svg") left center no-repeat;
+    background-size: 1.6em;
+    padding-left: 2em;
+
     &, &:visited {
         color: $title-color;
     }

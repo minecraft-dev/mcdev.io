@@ -1,0 +1,32 @@
+<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" height="140" width="140" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4221">
+  <linearGradient id="linearGradient4257" y2="320.83" gradientUnits="userSpaceOnUse" y1="258.43" gradientTransform="matrix(1.4727 0 0 2.2155 -650.79 276.01)" x2="1007.1" x1="1253.7">
+   <stop id="stop4253" stop-color="#dcf800" offset="0"/>
+   <stop id="stop4255" stop-color="#96ff00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4265" y2="601.17" gradientUnits="userSpaceOnUse" y1="560.7" gradientTransform="matrix(1.4727 0 0 2.2155 -235.17 -536.78)" x2="535.22" x1="598.44">
+   <stop id="stop4261" stop-color="#f2aa29" offset="0"/>
+   <stop id="stop4263" stop-color="#eafe13" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5010" y2="804.75" gradientUnits="userSpaceOnUse" y1="723.24" x2="625.61" x1="561.25">
+   <stop id="stop5006" stop-color="#d5f229" offset="0"/>
+   <stop id="stop5008" stop-color="#f2ba29" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title id="title4240">icon_intellij_rust</title>
+ <g id="layer1" transform="matrix(1.1579 0 0 1.1315 -612.14 -783.68)">
+  <g id="beam">
+   <path id="rect5002" d="m534.81 736.75 3.1879-35.755 35.899 8.7775 37.855-11.478 26.41 106.45-82.846-18.593z" fill="url(#linearGradient5010)"/>
+   <path id="rect4140" d="m528.74 778.1 64.694-80.352 45.662 76.226-77.917 31.669z" fill="url(#linearGradient4265)"/>
+   <path id="rect4138" d="m649.45 701.05-60.008 8.7198-41.841 101.41 58.006-13.74 40.306-24.015-13.805-30.402z" fill="url(#linearGradient4257)"/>
+  </g>
+ </g>
+ <g id="g4252" transform="translate(5.7849 3.3617)">
+  <rect id="rect4254" y="21.33" x="21.33" height="85.33" width="85.33"/>
+  <rect id="rect4260" height="5.12" width="32" y="92.59" x="29.87" fill="#fff"/>
+ </g>
+ <g id="text4272" fill="#fff" transform="translate(5.7849 3.3617)">
+  <path id="path4277" d="m55.938 34.843-7.9161 9.7758-8.0231-9.8225-8.385-0.0071v32.76h8.385v-20.167l8.0163 9.6662c2.745-3.1178 7.8636-9.4982 7.8636-9.4982l0.11015 19.999h8.385v-32.76z"/>
+  <path id="path4279" d="m84.149 34.79c-4.875 0-9.0188 1.6088-12.382 4.8262-3.3638 3.2175-5.0212 7.1662-5.0212 11.846 0 4.7775 1.6575 8.7262 5.0212 11.895 3.315 3.2175 7.4588 4.7775 12.334 4.7775 3.2175 0 6.1425-0.73125 8.7262-2.2425 2.535-1.5112 4.5825-3.6562 6.045-6.3862l-6.3862-4.3388c-2.0962 3.51-4.875 5.265-8.385 5.265-2.6325 0-4.7288-0.78-6.3375-2.4375-1.6575-1.6088-2.4375-3.7538-2.4375-6.4838 0-2.6812 0.78-4.875 2.4375-6.5325s3.7538-2.4862 6.3375-2.4862c3.51 0 6.2888 1.755 8.385 5.265l6.3862-4.3388c-1.4625-2.73-3.51-4.8262-6.045-6.3375-2.5838-1.5112-5.46-2.2912-8.6775-2.2912z"/>
+ </g>
+</svg>
