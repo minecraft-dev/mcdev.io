@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Minecraft Dev"
+date:   2016-09-26 00:00:00 +0600
+version: alpha-0.2.3
+---
+## New Features
+
+* Add plugin icon in the gutter by classes that are the "base" class of the plugin or mod
+* New Mixin @Shadow inspection
+* New @Overwrite JavaDoc tag validation inspection
+* Add icon next to Mixin classes
+* New Gradle projects will have variable data placed in `gradle.properties` rather than the `build.gradle` file
+* Use [SpongeStart](https://github.com/Qixalite/SpongeStart) in new Sponge projects
+* Add Forge run configs for Forge submodule projects
+* Use [SpongeGradle](https://github.com/SpongePowered/SpongeGradle) for new Sponge plugin Gradle projects
+
+## Bug Fixes
+
+* Add more nullability contracts to ModuleTypes
+* Fix missing super() call in MixinModule
+* Fix Sponge Forge name (should have been SpongeForge instead)
+
+## General Changes
+
+* New LiteLoader projects will simply implement LiteMod, rather than Tickable
