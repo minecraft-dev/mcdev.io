@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minecraft Dev"
+title:  "Minecraft Dev v. alpha-0.2.2"
 date:   2016-09-18 00:00:00 +0600
 version: alpha-0.2.2
 ---
