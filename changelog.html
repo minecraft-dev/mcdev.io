@@ -8,7 +8,7 @@ class: changelog-listing
 <table class="post-list">
   {% for post in site.posts %}
     <tr>
-      <td><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time></td>
+      <td><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time></td>
       <td><h2><a href="{{ post.url }}">{{ post.title }}</a></h2></td>
     </tr>
   {% endfor %}
