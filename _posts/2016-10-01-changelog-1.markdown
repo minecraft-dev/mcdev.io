@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Minecraft Dev v. alpha-0.2.6"
+date:   2016-10-01 00:00:00 +0600
+version: alpha-0.2.6
+---
+## New Features
+
+* @Shadow inspection made smarter, only gives soft warnings for invalid access modifiers and doesn't warn
+  for private target methods being shadowed as protected abstract methods. 
+* Add EAP channel for specific bug fixes related to running in an EAP build of IntelliJ

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Minecraft Dev v. alpha-0.2.7"
+date:   2016-10-01 00:00:00 +0600
+version: alpha-0.2.7
+---
+## Bug Fix
+
+* Fix two errors in the Forge SideOnly inspection
