@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Minecraft Dev v. alpha-0.2.8"
+date:   2016-10-02 00:00:00 +0000
+version: alpha-0.2.8
+---
+## Changes
+
+* Build off of 2016.2.4 sources
+
+## New Features
+
+* Add inspections for when @Final variables are mutated
+
+## Bug Fixes
+
+* Quick fix to re-enable broken Forge detection
