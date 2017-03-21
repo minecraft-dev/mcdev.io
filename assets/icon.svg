@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
-   viewBox="0 0 300 140"
-   height="140"
-   width="300"
+   viewBox="0 0 213.16217 93.885132"
+   height="93.885132"
+   width="213.16217"
    version="1.1"
-   sodipodi:docname="mcdev_new.svg.2017_03_21_12_26_03.0.svg"
+   sodipodi:docname="icon.svg"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata4668">
@@ -44,14 +44,18 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="8"
-     inkscape:cx="138.66345"
-     inkscape:cy="69.329909"
+     inkscape:cx="115.60602"
+     inkscape:cy="46.272475"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs4221">
     <linearGradient
@@ -209,10 +213,11 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Dev Color Background"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-23.057434,-23.057434)">
     <path
        style="opacity:1;fill:url(#linearGradient5445);fill-opacity:1;stroke:none;stroke-width:1.76055872;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 68.344597,33.344601 143.133113,0 24.7419,73.310799 H 68.344597 Z"
+       d="M 68.344597,33.344601 H 211.47771 l 24.7419,73.310799 H 68.344597 Z"
        id="rect4633"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -221,19 +226,21 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Dev Background"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-23.057434,-23.057434)">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5437"
-       d="m 74.020273,38.2196 133.240227,0 21.32363,63.5608 H 74.020273 Z"
+       d="M 74.020273,38.2196 H 207.2605 l 21.32363,63.5608 H 74.020273 Z"
        style="opacity:1;fill:#333333;fill-opacity:0.96837942;stroke:none;stroke-width:1.57149899;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Dev Text"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-23.057434,-23.057434)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -250,7 +257,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Circle Background"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(-23.057434,-23.057434)">
     <path
        style="opacity:1;fill:url(#linearGradient4611);fill-opacity:1;stroke:none;stroke-width:0.92220473;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 54.510134,13.006757 97.782418,20.958678 21.774817,104.47088 14.307432,45.405409 Z"
@@ -270,7 +278,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Dark Circle">
+     inkscape:label="Dark Circle"
+     transform="translate(-23.057434,-23.057434)">
     <ellipse
        cy="70"
        cx="70"
@@ -282,7 +291,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="MC">
+     inkscape:label="MC"
+     transform="translate(-23.057434,-23.057434)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:125%;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.92885377;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
