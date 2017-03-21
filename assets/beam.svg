@@ -35,8 +35,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4243"
        id="linearGradient4249"
-       x1="485.3858"
-       y1="32.933029"
+       x1="435.84833"
+       y1="78.472794"
        x2="201.59163"
        y2="313.56104"
        gradientUnits="userSpaceOnUse"
@@ -45,7 +45,7 @@
        inkscape:collect="always"
        id="linearGradient4243">
       <stop
-         style="stop-color:#cad343;stop-opacity:1"
+         style="stop-color:#ffed4e;stop-opacity:1"
          offset="0"
          id="stop4245" />
       <stop
