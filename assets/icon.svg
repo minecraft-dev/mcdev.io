@@ -82,7 +82,7 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5451-254"
+       xlink:href="#BlueGreenGradient-5"
        id="linearGradient5445-861"
        x1="68.344597"
        y1="70"
@@ -98,7 +98,7 @@
        y1="560.70001"
        gradientUnits="userSpaceOnUse"
        y2="601.16998"
-       id="linearGradient5451-254">
+       id="BlueGreenGradient-5">
       <stop
          style="stop-color:#1ffa9b;stop-opacity:1;opacity:0.96863516"
          offset="0"
@@ -112,16 +112,17 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5451-254"
+       xlink:href="#BlueGreenGradient-5"
        id="linearGradient4603-216"
        x1="-67.016869"
        y1="97.485794"
        x2="56.732361"
        y2="98.334106"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0370656,0,0,1,-2.5332358,0)" />
   </defs>
   <title
-     id="title4240">icon_intellij_rust</title>
+     id="title4240">icon_minecraft_dev</title>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -129,7 +130,7 @@
      style="display:inline;opacity:0.98934404"
      transform="translate(-23.057434,-7.5773131)">
     <path
-       style="opacity:0.99781847;fill:url(#linearGradient5445-861);fill-opacity:1;stroke:none;stroke-width:1.76055872;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.99781847;fill:url(#linearGradient5445-861);fill-opacity:1.0;stroke:none;stroke-width:1.76055872;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 68.344597,33.344601 H 211.47771 l 24.7419,73.310799 H 68.344597 Z"
        id="rect4633"
        inkscape:connector-curvature="0"

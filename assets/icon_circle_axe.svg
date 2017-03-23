@@ -35,8 +35,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="5.6568544"
-     inkscape:cx="31.664577"
-     inkscape:cy="45.03925"
+     inkscape:cx="41.439856"
+     inkscape:cy="59.181385"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,7 +88,7 @@
        y1="560.70001"
        gradientUnits="userSpaceOnUse"
        y2="601.16998"
-       id="linearGradient5451-254">
+       id="BlueGreenGradient-3">
       <stop
          style="stop-color:#1ffa9b;stop-opacity:1;opacity:0.96863516"
          offset="0"
@@ -102,16 +102,17 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5451-254"
+       xlink:href="#BlueGreenGradient-3"
        id="linearGradient4603-216"
        x1="-67.741356"
        y1="98.778999"
        x2="56.732361"
        y2="98.334106"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0370656,0,0,1,-2.5332358,0)" />
   </defs>
   <title
-     id="title4240">icon_intellij_rust</title>
+     id="title4240">icon_minecraft_dev</title>
   <g
      inkscape:groupmode="layer"
      id="layer5"
