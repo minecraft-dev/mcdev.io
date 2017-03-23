@@ -7,11 +7,14 @@ order: 100
 
 Minecraft Dev supports all of the major Java Minecraft development platforms. These include:
 
-- [![Bukkit Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Bukkit.png) **Bukkit**](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse) ([![Spigot Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Spigot.png) Spigot](https://spigotmc.org/) and [![Paper Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Paper.png) Paper](https://paper.emc.gs))
-- [![Sponge Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Sponge.png) **Sponge**](https://www.spongepowered.org/)
-- [![Forge Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/Forge.png) **Minecraft Forge**](http://minecraftforge.net/forum)
-- [![LiteLoader Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/LiteLoader.png) **LiteLoader**](http://www.liteloader.com/)
-- [![BungeeCord Icon](https://github.com/DemonWav/MinecraftDev/raw/master/src/main/resources/assets/platform/icons/BungeeCord.png) **BungeeCord**](https://www.spigotmc.org/wiki/bungeecord/)
+- [![Bukkit Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Bukkit.png?raw=true) **Bukkit**](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse) ([![Spigot Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Spigot.png?raw=true) Spigot](https://spigotmc.org/) and [![Paper Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Paper.png?raw=true) Paper](https://paper.emc.gs))
+- [![Sponge Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Sponge_dark.png?raw=true) **Sponge**](https://www.spongepowered.org/)
+- [![Forge Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Forge.png?raw=true) **Minecraft Forge**](http://minecraftforge.net/forum)
+- [![LiteLoader Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/LiteLoader.png?raw=true) **LiteLoader**](http://www.liteloader.com/)
+- [![MCP Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/MCP.png?raw=true) **MCP**](http://www.modcoderpack.com/)
+- [![Mixins Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Mixins_dark.png?raw=true) **Mixins**](https://github.com/SpongePowered/Mixin)
+- [![BungeeCord Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/BungeeCord.png?raw=true) **BungeeCord**](https://www.spigotmc.org/wiki/bungeecord/)
+- [![Canary Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Canary.png?raw=true) **Canary**](https://canarymod.net/) ([![Neptune Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Neptune.png?raw=true) Neptune](https://www.neptunepowered.org/))
 
 {% include h title="I found a bug. What should I do?" tag="bug" %}
 

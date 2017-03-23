@@ -3,18 +3,16 @@ body.home {
 }
 
 h1.square {
-    margin: -($square-size / 2 + $spacing-unit*3) 0 $spacing-unit;
+    margin: 0 0 $spacing-unit;
 
     display: flex;
     align-items: flex-end;
-    width: $square-size;
-    height: $square-size;
+    width: 220px;
     padding: 12px;
     box-sizing: border-box;
+    border-bottom: 3px solid black;
 
-    font-size: 12px;
-    background: #000;
-    color: $background-color;
+    font-size: 15px;
 
     @include media-query($on-palm) {
         margin-top: -($square-size-mobile / 2 + $spacing-unit*3);
@@ -43,7 +41,7 @@ h1.square {
  * Home page jumbotron
  */
 .jumbo {
-    background: #f5f5f5 url('beam.svg') center center no-repeat;
+    background: #f5f5f5;
     padding-top: $spacing-unit * 4 + $header-height;
     padding-bottom: $spacing-unit * 4;
 
@@ -304,7 +302,7 @@ h1.square {
         }
 
         .at {
-            left: 128px;
+            left: 47px;
         }
     }
 }
