@@ -18,12 +18,12 @@ Minecraft Dev supports all of the major Java Minecraft development platforms. Th
 
 {% include h title="I found a bug. What should I do?" tag="bug" %}
 
-If you find a problem with the plugin, please report it to our [issue tracker](https://github.com/DemonWav/MinecraftDev/issues).
+If you find a problem with the plugin, please report it to our [issue tracker](https://github.com/minecraft-dev/MinecraftDev/issues).
 We try to deal with bugs as quickly as possible and take the quality of this plugin very seriously.
 
 {% include h title="I have an idea for a new feature." tag="feature" %}
 
-If you have any feature requests for any of the supported platforms, please use the [issue tracker](https://github.com/DemonWav/MinecraftDev/issues)
+If you have any feature requests for any of the supported platforms, please use the [issue tracker](https://github.com/minecraft-dev/MinecraftDev/issues)
 to suggest it and we'll let you know if it's in the scope for what we are trying to do. We might not always implement
 every feature immediately, but we are always on the lookout for new features to implement and we would love to hear your
 ideas!
@@ -38,15 +38,25 @@ Installation instructions for pre-release builds are available [here](https://mi
 
 {% include h title="I installed the plugin and it didn't detect my current projects. What can I do?" tag="detect" %}
 
-Usually Maven projects will be detected immediately on startup, but Gradle projects won't always automatically detect.
-Minecraft Dev plugs into the Maven and Gradle plugin loading system to gather information about the project, so
-sometimes a project refresh is necessary to re-detect the project as a Minecraft project.
+Usually projects will be detected immediately on startup. Minecraft Dev checks the individual libraries to determine if
+the modules are applicable. If it's not detected immediately on startup, you can try refreshing your build system, to
+cause the module structure to update, forcing Minecraft Dev to check the dependencies again.
 
-For Maven to refresh the project, right click on the `pom.xml` and choose `Maven -> Reimport`.
+If that doesn't work, however, you can manually enable Minecraft Dev features on any module by registering the Minecraft
+Dev facet on that module. Go to `File -> Project Structure -> Modules`. You want to register the relevant modules which
+contain the source set you're interested in. For module groups, this means selecting the child modules, rather than the
+parents. This can often be the case for Gradle projects. If you aren't sure, click on the module and check the
+dependencies tab on the right. It will show you which dependencies are available for that module. If the module has no
+dependencies then it may not be the module you're looking for.
 
-For Gradle to refresh the project, open the Gradle tool window by going to `View -> Tools Windows -> Gradle` and click
-the blue refresh button in the tool window.
+Once you have determined the correct module, right click on it and choose `Add`, and select `Minecraft`. Then you can
+de-select `Auto-detect` to manually override Minecraft Dev's detection of that particular platform type for that module.
 
 {% include h title="How do I know if my project is detected as a Minecraft project?" tag="detect-visual" %}
 
 The module icon will change to the icon of the platform contained in the module.
+
+Additionally, the `Minecraft Facet` will automatically be registered for the relevant modules, which allows you to view
+and set the correct project types, including hidden project types, such as MCP and Mixins.
+
+To view this, simply go to `File -> Project Structure`, and either check the `Modules` or `Facets` tab.
