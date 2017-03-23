@@ -62,33 +62,6 @@
   <defs
      id="defs4221">
     <linearGradient
-       spreadMethod="pad"
-       x1="598.44"
-       x2="535.21997"
-       gradientTransform="matrix(1.4727,0,0,2.2155,-235.17,-536.78)"
-       y1="560.70001"
-       gradientUnits="userSpaceOnUse"
-       y2="601.16998"
-       id="linearGradient5451">
-      <stop
-         style="stop-color:#03de5b;stop-opacity:1;opacity:0.984271901584"
-         offset="0"
-         stop-color="#f18e1a"
-         id="stop5447" />
-      <stop
-         style="stop-color:#42a7f5;stop-opacity:1;opacity:0.9864548108"
-         offset="1"
-         stop-color="#fce80f"
-         id="stop5449" />
-    </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-200.59213 : 131.62812 : 1"
-       inkscape:vp_y="0 : 2335.5121 : 0"
-       inkscape:vp_z="314.12917 : 131.62812 : 1"
-       inkscape:persp3d-origin="56.768519 : 77.132812 : 1"
-       id="perspective5250" />
-    <linearGradient
        id="linearGradient4964"
        osb:paint="solid">
       <stop
@@ -96,79 +69,6 @@
          offset="0"
          id="stop4962" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4257"
-       y2="320.82999"
-       gradientUnits="userSpaceOnUse"
-       y1="258.42999"
-       gradientTransform="matrix(1.4727,0,0,2.2155,-650.79,276.01)"
-       x2="1007.1"
-       x1="1253.7">
-      <stop
-         id="stop4253"
-         stop-color="#fbe210"
-         offset="0"
-         style="stop-color:#1af988;stop-opacity:1;opacity:0.988475383143" />
-      <stop
-         id="stop4255"
-         stop-color="#adfc15"
-         offset="1"
-         style="stop-color:#42bcf5;stop-opacity:1;opacity:0.994672522299" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4265"
-       y2="601.16998"
-       gradientUnits="userSpaceOnUse"
-       y1="560.70001"
-       gradientTransform="matrix(1.4727,0,0,2.2155,-235.17,-536.78)"
-       x2="535.21997"
-       x1="598.44"
-       spreadMethod="pad">
-      <stop
-         id="stop4261"
-         stop-color="#f3b548"
-         offset="0"
-         style="stop-color:#0172f2;stop-opacity:1;opacity:0.970720807604" />
-      <stop
-         id="stop4263"
-         stop-color="#a9e702"
-         offset="1"
-         style="stop-color:#0c9f35;stop-opacity:1;opacity:0.992723155693" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5010"
-       y2="804.75"
-       gradientUnits="userSpaceOnUse"
-       y1="723.23999"
-       x2="625.60999"
-       x1="561.25">
-      <stop
-         id="stop5006"
-         stop-color="#e3f42d"
-         offset="0" />
-      <stop
-         id="stop5008"
-         stop-color="#eca111"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath5006">
-      <path
-         style="opacity:0.14473087;fill:#060505;fill-opacity:1;stroke:#050404;stroke-width:0.70327324;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 631.5481,754.46752 a 42.429877,43.419845 0 0 1 -42.42987,43.41984 42.429877,43.419845 0 0 1 -42.42988,-43.41984 42.429877,43.419845 0 0 1 42.42988,-43.41984 42.429877,43.419845 0 0 1 42.42987,43.41984 z"
-         id="path5008"
-         inkscape:connector-curvature="0" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4257"
-       id="linearGradient4603"
-       x1="-67.741356"
-       y1="98.778999"
-       x2="56.732361"
-       y2="98.334106"
-       gradientUnits="userSpaceOnUse" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4615">
@@ -180,26 +80,6 @@
          r="46.942566"
          transform="rotate(47.69349)" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4619">
-      <circle
-         style="opacity:0.9891604;fill:#01ca0f;fill-opacity:1;stroke:none;stroke-width:0.92220473;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle4621"
-         cx="70"
-         cy="70"
-         r="46.942566" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5451"
-       id="linearGradient5445"
-       x1="68.344597"
-       y1="70"
-       x2="230.2196"
-       y2="70"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0370656,0,0,1,-2.5332358,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5451-254"
@@ -232,32 +112,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4257-555"
+       xlink:href="#linearGradient5451-254"
        id="linearGradient4603-216"
        x1="-67.016869"
        y1="97.485794"
        x2="56.732361"
        y2="98.334106"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4257-555"
-       y2="320.82999"
-       gradientUnits="userSpaceOnUse"
-       y1="258.42999"
-       gradientTransform="matrix(1.4727,0,0,2.2155,-650.79,276.01)"
-       x2="1007.1"
-       x1="1253.7">
-      <stop
-         id="stop12529"
-         stop-color="#fcf927"
-         offset="0"
-         style="stop-color:#1ffa9b;stop-opacity:1;opacity:0.988428100096" />
-      <stop
-         id="stop12531"
-         stop-color="#befc17"
-         offset="1"
-         style="stop-color:#2c98f3;stop-opacity:1;opacity:0.99750845355" />
-    </linearGradient>
   </defs>
   <title
      id="title4240">icon_intellij_rust</title>
@@ -294,7 +155,7 @@
      transform="translate(-23.057434,-7.5773131)">
     <path
        transform="rotate(-47.69349)"
-       style="opacity:0.97848744;fill:url(#linearGradient4603-216);fill-opacity:1;stroke:none;stroke-width:0.96206522;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.97848744;fill:url(#linearGradient4603-216);fill-opacity:1.0;stroke:none;stroke-width:0.96206522;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -75.375459,96.597955 -2.2943372,30.499705 65.472629,105.16537 -7.3689859,171.17356 Z"
        id="rect4585"
        inkscape:connector-curvature="0"
