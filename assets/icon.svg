@@ -15,7 +15,10 @@
    width="227.37299"
    version="1.1"
    sodipodi:docname="icon.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.1 r"
+   inkscape:export-filename="/home/demonwav/bitmap.png"
+   inkscape:export-xdpi="122.703"
+   inkscape:export-ydpi="122.703">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,9 +34,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4"
-     inkscape:cx="68.238218"
-     inkscape:cy="54.480424"
+     inkscape:zoom="2"
+     inkscape:cx="0.49597192"
+     inkscape:cy="102.2243"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -322,7 +325,7 @@
        id="g14325"
        transform="rotate(-70.895882,132.04346,-27.862165)" />
     <g
-       style="display:inline;opacity:0.97325314"
+       style="display:inline;opacity:0.464"
        id="g14445"
        transform="rotate(6.2570096,-848.16027,5.1902401)">
       <rect

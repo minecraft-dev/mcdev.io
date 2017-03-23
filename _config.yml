@@ -8,7 +8,7 @@
 # Site settings
 title: Minecraft Dev for IntelliJ
 email: ""
-description: Plugin for IntelliJ IDEA for Minecraft Development
+description: Plugin for IntelliJ IDEA for Minecraft mod development
 
 collections:
   docs:
