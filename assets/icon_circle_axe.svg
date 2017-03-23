@@ -17,8 +17,8 @@
    sodipodi:docname="icon_circle_axe.svg"
    inkscape:version="0.92.1 r"
    inkscape:export-filename="/home/demonwav/axe.png"
-   inkscape:export-xdpi="137.14285"
-   inkscape:export-ydpi="137.14285">
+   inkscape:export-xdpi="137.14301"
+   inkscape:export-ydpi="137.14301">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,13 +34,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-376.75666"
-     inkscape:cy="-0.26965502"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="70.643837"
+     inkscape:cy="45.03925"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer1"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      fit-margin-top="0"
@@ -718,17 +718,17 @@
      inkscape:label="MC"
      transform="translate(-17.6764,20.544661)">
     <g
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:125%;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:0px;word-spacing:0px;opacity:0.96696574;fill:#edecec;fill-opacity:0.92941176;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:125%;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:0px;word-spacing:0px;opacity:0.96696574;fill:#edecec;fill-opacity:0.90118575;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text5012"
        transform="translate(11.895084,-24.895662)">
       <path
          d="m 34.654443,53.176001 h 8.448 l 10.464,20.64 10.368,-20.64 h 8.4 v 33.6 h -6.816 v -22.704 l -9.552,19.296 h -4.896 l -9.6,-19.296 v 22.704 h -6.816 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:169.60000992%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:-0.38999999px;word-spacing:6.86999989px;text-anchor:middle;opacity:0.96223414;fill:#edecec;fill-opacity:0.92941176"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:169.60000992%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:-0.38999999px;word-spacing:6.86999989px;text-anchor:middle;opacity:0.96223414;fill:#edecec;fill-opacity:0.90118575"
          id="path3480"
          inkscape:connector-curvature="0" />
       <path
          d="m 103.69419,63.688001 q -1.728,-2.064 -4.079996,-3.216 -2.304,-1.2 -4.656,-1.2 -2.832,0 -5.184,1.392 -2.352,1.392 -3.696,3.792 -1.344,2.4 -1.344,5.328 0,2.928 1.344,5.376 1.344,2.4 3.696,3.84 2.352,1.392 5.184,1.392 2.256,0 4.56,-1.056 2.351996,-1.104 4.175996,-2.928 l 4.464,4.848 q -2.688,2.784 -6.336,4.416 -3.599996,1.632 -7.247996,1.632 -4.944,0 -8.976,-2.256 -4.032,-2.304 -6.336,-6.288 -2.304,-3.984 -2.304,-8.88 0,-4.848 2.352,-8.784 2.352,-3.936 6.432,-6.192 4.128,-2.256 9.12,-2.256 3.648,0 7.199996,1.536 3.552,1.488 6.048,4.08 z"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:169.60000992%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:-0.38999999px;word-spacing:6.86999989px;text-anchor:middle;opacity:0.99565298;fill:#edecec;fill-opacity:0.92941176"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:169.60000992%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;letter-spacing:-0.38999999px;word-spacing:6.86999989px;text-anchor:middle;opacity:0.99565298;fill:#edecec;fill-opacity:0.90118575"
          id="path3482"
          inkscape:connector-curvature="0" />
     </g>
