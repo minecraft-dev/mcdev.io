@@ -6,7 +6,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
@@ -16,7 +15,7 @@
    version="1.1"
    sodipodi:docname="icon_circle.svg"
    inkscape:version="0.92.1 r"
-   inkscape:export-filename="/home/demonwav/bitmap.png"
+   inkscape:export-filename="/home/demonwav/fav.png"
    inkscape:export-xdpi="122.70313"
    inkscape:export-ydpi="122.70313">
   <sodipodi:namedview
@@ -35,7 +34,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="4"
-     inkscape:cx="9.113218"
+     inkscape:cx="-46.011782"
      inkscape:cy="44.680876"
      inkscape:window-x="1600"
      inkscape:window-y="0"
@@ -80,36 +79,6 @@
          r="46.942566"
          transform="rotate(47.69349)" />
     </clipPath>
-    <linearGradient
-       spreadMethod="pad"
-       x1="598.44"
-       x2="535.21997"
-       gradientTransform="matrix(1.4727,0,0,2.2155,-235.17,-536.78)"
-       y1="560.70001"
-       gradientUnits="userSpaceOnUse"
-       y2="601.16998"
-       id="BlueGreenGradient-3">
-      <stop
-         style="stop-color:#1ffa9b;stop-opacity:1;opacity:0.96863516"
-         offset="0"
-         stop-color="#f28317"
-         id="stop12523" />
-      <stop
-         style="stop-color:#509ef5;stop-opacity:1;opacity:0.989496330033"
-         offset="1"
-         stop-color="#f8fa1f"
-         id="stop12525" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#BlueGreenGradient-3"
-       id="linearGradient4603-216"
-       x1="-67.741356"
-       y1="98.778999"
-       x2="56.732361"
-       y2="98.334106"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0370656,0,0,1,-2.5332358,0)" />
   </defs>
   <title
      id="title4240">icon_minecraft_dev</title>
@@ -132,7 +101,7 @@
      transform="translate(-23.057434,-23.057434)">
     <path
        transform="rotate(-47.69349)"
-       style="opacity:0.97848744;fill:url(#linearGradient4603-216);fill-opacity:1.0;stroke:none;stroke-width:0.96206522;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.97848744;fill:#509ef5;fill-opacity:1;stroke:none;stroke-width:0.96206522;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -75.375459,96.597955 -2.2943372,30.499705 65.472629,105.16537 -7.3689859,171.17356 Z"
        id="rect4585"
        inkscape:connector-curvature="0"
