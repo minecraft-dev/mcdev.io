@@ -30,6 +30,7 @@
 }
 .icon-github {
     &:before {
+        color: #eaeaeb;
         content: $icon-github;
     }
 }

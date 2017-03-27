@@ -41,7 +41,8 @@ h1.square {
  * Home page jumbotron
  */
 .jumbo {
-    background: #f5f5f5;
+    background: #f5f5f5 url('blurr.png') center center no-repeat;
+    background-size: cover;
     padding-top: $spacing-unit * 4 + $header-height;
     padding-bottom: $spacing-unit * 4;
 
@@ -73,6 +74,18 @@ h1.square {
         padding-top: $spacing-unit * 2 + $header-height;
         padding-bottom: $spacing-unit * 2;
     }
+}
+
+.box-back {
+    background-color: rgba(255, 255, 255, 0.25);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.white-text {
+    color: #eaeaeb;
 }
 
 #download {
