@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
+
+  <body{% if page.class %} class="{{ page.class }}"{% endif %}>
 
   <div id="wrap">
     {% include header.html %}
@@ -10,8 +12,6 @@
       {{ content }}
     </div>
   </div>
-
-  <body{% if page.class %} class="{{ page.class }}"{% endif %}>
 
   {% include footer.html %}
 
