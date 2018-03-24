@@ -1,11 +1,12 @@
 {
     "versions": [
-        "7.0.0-SNAPSHOT",
+        "7.1.0-SNAPSHOT",
+        "7.0.0",
         "6.1.0-SNPASHOT",
         "6.0.0",
         "5.2.0-SNAPSHOT",
         "5.1.0",
         "5.0.0"
     ],
-    "selectedIndex": 2
+    "selectedIndex": 1
 }
