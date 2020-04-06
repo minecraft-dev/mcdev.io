@@ -14,7 +14,6 @@ Minecraft Dev supports all of the major Java Minecraft development platforms. Th
 - [![MCP Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/MCP.png?raw=true) **MCP**](http://www.modcoderpack.com/)
 - [![Mixins Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Mixins_dark.png?raw=true) **Mixins**](https://github.com/SpongePowered/Mixin)
 - [![BungeeCord Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/BungeeCord.png?raw=true) **BungeeCord**](https://www.spigotmc.org/wiki/bungeecord/)
-- [![Canary Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Canary.png?raw=true) **Canary**](https://canarymod.net/) ([![Neptune Icon](https://raw.githubusercontent.com/minecraft-dev/MinecraftDev/2017.1/src/main/resources/assets/icons/platform/Neptune.png?raw=true) Neptune](https://www.neptunepowered.org/))
 
 {% include h title="I found a bug. What should I do?" tag="bug" %}
 
