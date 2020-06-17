@@ -23,6 +23,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
+github: [metadata]
 
-gems:
+plugins:
   - jemoji

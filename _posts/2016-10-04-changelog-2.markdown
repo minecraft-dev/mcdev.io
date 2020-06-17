@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Minecraft Dev v. alpha-0.2.15"
-date:   2016-10-04 00:00:00 +0000
-version: alpha-0.2.15
----
-## Bug Fixes
-
-* Fix severe nullability error in AbstractDataService
