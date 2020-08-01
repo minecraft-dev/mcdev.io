@@ -6,6 +6,8 @@ permalink: /install/
 
 ## Installing
 
+<iframe style="padding-left: 30px;" frameborder="none" width="275px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/8327"></iframe>
+
 You can download and install these builds directly from `Plugins > Browse repositories` screen in your IDE.
 
 Hopefully you won't find any bugs, but if you do, we would appreciate if you opened an
