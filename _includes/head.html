@@ -19,4 +19,11 @@
 
   <meta name="application-name" content="Minecraft Dev">
   <meta name="theme-color" content="#ffffff">
+  <script>
+    function onLoadCallback(){
+      MarketplaceWidget.setupMarketplaceWidget('card', 8327, "#market-place-hook");
+      MarketplaceWidget.setupMarketplaceWidget('install', 8327, "#install-button");
+    }
+  </script>
+  <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js" defer onload="onLoadCallback()"></script>
 </head>

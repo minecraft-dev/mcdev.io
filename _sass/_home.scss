@@ -230,6 +230,15 @@ h1.square {
     }
 }
 
+#install-button {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    top: 3.8em;
+    right: 1.5em;
+}
+
 #install-pane-close {
     position: absolute;
     top: 6px;
