@@ -15,8 +15,8 @@ Hopefully you won't find any bugs, but if you do, we would appreciate if you ope
 
 In addition to normal releases, we also ship nightly builds of _Minecraft Dev_ in separate channels.
 
-To configure nightly builds open the `Find Action` dialog by pressing the key combo `Ctrl-Alt-A`
-(or `Cmd-Alt-A` on Mac). Type `Configure Minecraft Development Plugin Updates` and press `Enter`. This will bring up a
+To configure nightly builds open the `Find Action` dialog by pressing the key combo `Ctrl-Shift-A`
+(or `Shift-Cmd-A` on Mac). Type `Configure Minecraft Development Plugin Updates` and press `Enter`. This will bring up a
 window which will allow you to change your channel at any time.
 
 Due to a quirk with how IntelliJ handles plugin updates, you may not be able to automatically move from a pre-release
