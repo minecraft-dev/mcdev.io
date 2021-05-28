@@ -1,9 +1,10 @@
 {
     "versions": [
+        "8.0.0-SNAPSHOT",
         "7.3.0",
         "7.2.0",
         "7.1.0",
         "7.0.0"
     ],
-    "selectedIndex": 0
+    "selectedIndex": 1
 }
