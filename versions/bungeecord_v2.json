@@ -1,5 +1,6 @@
 {
     "versions": [
+        "1.17-R0.1-SNAPSHOT",
         "1.16-R0.5-SNAPSHOT",
         "1.16-R0.4",
         "1.16-R0.3",
@@ -10,5 +11,5 @@
         "1.13-SNAPSHOT",
         "1.12-SNAPSHOT"
     ],
-    "selectedIndex": 1
+    "selectedIndex": 2
 }
