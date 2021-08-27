@@ -1,7 +1,8 @@
 {
     "versions": [
-        "2.0.0-SNAPSHOT",
-        "1.1.9-SNAPSHOT",
+        "4.0.0-SNAPSHOT",
+        "3.0.1-SNAPSHOT",
+        "3.0.0",
         "1.1.8",
         "1.1.0"
     ],
