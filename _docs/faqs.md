@@ -22,6 +22,8 @@ Minecraft Dev supports all of the major Java Minecraft development platforms. Th
 If you find a problem with the plugin, please report it to our [issue tracker](https://github.com/minecraft-dev/MinecraftDev/issues).
 We try to deal with bugs as quickly as possible and take the quality of this plugin very seriously.
 
+In some cases, you may be able to report an exception related to the Minecraft Dev plugin directly through IntelliJ. If you choose to do this, the reported stack traces could include sensitive information such as package names or source code. This data will be publicly accessible and searchable through the issue tracker.
+
 {% include h title="I have an idea for a new feature." tag="feature" %}
 
 If you have any feature requests for any of the supported platforms, please use the [issue tracker](https://github.com/minecraft-dev/MinecraftDev/issues)
