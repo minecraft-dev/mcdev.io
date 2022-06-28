@@ -52,7 +52,7 @@ and it's set by calling the Forge API, which may take a few seconds.
 ![Forge Settings Page](/assets/gettingstarted/forgesettings.png)
 
 This is much the same as last time, feel free to input or change whichever settings you want. The `Plugin Name` field is
-grayed out because that was already set in the previous screen and can't be changed again. You cna go back to the
+grayed out because that was already set in the previous screen and can't be changed again. You can go back to the
 previous page if you want to change the plugin name.
 
 After clicking next on this page you will be presented with the module info page, asking what to call the project and
