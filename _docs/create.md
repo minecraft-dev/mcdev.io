@@ -61,7 +61,7 @@ where to put it.
 ![Project Settings Page](/assets/gettingstarted/projectsettings.png)
 
 Once you have set the name and path to what you want, and click next, it will automatically create your project based
-on the settings you gave it. For `Forge` and `LiteLoader` projects this may take a considerable amount of time, as the
+on the settings you gave it. For `Forge` projects this may take a considerable amount of time, as the
 automatic project creator will run `./gradlew setupDecompWorkspace` for you, which can take a lot of time, especially
 if you haven't ran it before.
 
