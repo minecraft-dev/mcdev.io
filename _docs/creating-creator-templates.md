@@ -77,6 +77,7 @@ The main values of a property object are:
 - an optional `order` integer, defining where to place the property's UI in the creator, overriding the definition order
 - an optional `default` value, its actual value depends completely on the property type
 - an optional `visible` boolean, defaulting to `true`
+- an optional `forceValue` object, used to specify when a property's value should be force-set and non-editable by a user. Currently only supported by `boolean` and `gradle_plugin` property types
 - an optional `editable` boolean, defaulting to `true`
 - an optional `remember` boolean, defaulting to `true`
 - an optional `options` object or array of arbitrary values the property type will `deserialize`
@@ -94,6 +95,7 @@ The common types you will use are:
 - `class_fqn` of type [ClassFqn](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/creator/custom/model/ClassFqn.kt), which validates that its value is a valid fully qualified class name
 - `inline_string_list` of type [StringList](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/creator/custom/model/StringList.kt), for a comma-separated list of strings
 - `maven_artifact_version` of type [SemanticVersion](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/util/SemanticVersion.kt), supports both `options` for hardcoded choices and versions defined in remotes pom.xml
+- `gradle_plugin` of type [GradlePluginSelectorCreatorProperty.Holder](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/creator/custom/types/GradlePluginSelectorCreatorProperty.kt#L244-L269), for enabling/disabling Gradle plugins and selecting remote-fetched versions
 - `build_system_properties` of type [BuildSystemCoordinates](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/creator/custom/model/BuildSystemCoordinates.kt), providing standard Maven coordinates' `groupId`, `artifactId` and `version`
 - `jdk` of type [CreatorJdk](https://github.com/minecraft-dev/MinecraftDev/blob/dev/src/main/kotlin/creator/custom/model/CreatorJdk.kt), providing a JDK dropdown that can be filtered down with a minimum version defined in another property
 
@@ -154,8 +156,10 @@ Template finalizers are actions performed sequentially once the project is fully
 
 The existing finalizers are:
 - `import_gradle_project`, imports the Gradle project.
-- `import_maven_project`, imports the Maven project.
+- `add_gradle_run`, adds a Gradle run configuration.
 - `run_gradle_tasks`, executes Gradle tasks provided in its `tasks` array.
+- `import_maven_project`, imports the Maven project.
+- `add_maven_run`, adds a Maven run configuration.
 - `git_add_all`, adds all the existing files of the project to the Git repo.
 
 Finalizers can also have a `condition`, which works the same way as in `files`.
